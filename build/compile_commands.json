@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/tassi/source/repos/BulletSharpPInvoke/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\libbulletc.dir\\libbulletc.cpp.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\tassi\\source\\repos\\BulletSharpPInvoke\\libbulletc.cpp",
+  "file": "C:/Users/tassi/source/repos/BulletSharpPInvoke/libbulletc.cpp"
+}
+]
